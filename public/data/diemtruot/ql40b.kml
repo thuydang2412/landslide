@@ -1,0 +1,10831 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>QL_40B.kml</name>
+	<Style id="IconStyle00">
+		<IconStyle>
+			<scale>0.3125</scale>
+			<Icon>
+				<href>data/diemtruot/Layer.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffe65c00</color>
+			<scale>0.5</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>QL_40B</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 129+650 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Nam, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_129+650.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.113342,15.018556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 128+450 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Nam, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_128+450.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.118025,15.015816,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 128+290 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Nam, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_128+290.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.118906,15.014581,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 128+200 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Nam, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_128+200.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.119757,15.014826,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 128+100 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Nam, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_128+100.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.120333,15.014147,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00005">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 127+700 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Nam, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_127+700.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.119699,15.010825,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 127+430 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Nam, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_127+430.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.118887,15.009062,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 127+350 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Nam, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_127+350.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.118337,15.008441,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00008">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 126+430 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Nam, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_126+430.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.123688,15.005104,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00009">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 125+500 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Nam, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_125+500.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.127101,15.007622,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00010">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 125+380 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Nam, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_125+380.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.127421,15.008692,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00011">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 124+680 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Don, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_124+680.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.125572,15.013599,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00012">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 124+570 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Don, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_124+570.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.124882,15.014485,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00013">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 124+370 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Don, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_124+370.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.123892,15.016215,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00014">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 124+40 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Don, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_124+40.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.122286,15.018191,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00015">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 123+710 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Don, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_123+710.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.121642,15.019817,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00016">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 123+440 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Don, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_123+440.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.121296,15.022044,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00017">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 123+250 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Don, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_123+250.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.119656,15.02308,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00018">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 122+800 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Don, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_122+800.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.118336,15.027253,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00019">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 122+260 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Don, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_122+260.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.115195,15.03004,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00020">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 121+850 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Don, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_121+850.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.112979,15.032387,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00021">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 120+070 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Don, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_120+070.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.104485,15.044841,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00022">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 119+410 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Don, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_119+410.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.098804,15.047099,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00023">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 119+200 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Don, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_119+200.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.096634,15.046782,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00024">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 119+100 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Don, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_119+100.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.095704,15.046788,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00025">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 118+110 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Don, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_118+110.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.089544,15.048732,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00026">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 117+530 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Don, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_117+530.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.090966,15.054232,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00027">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 117+210 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Don, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_117+210.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.092207,15.056587,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00028">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 116+900 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Don, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_116+900.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.090582,15.059204,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00029">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 116+750 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Don, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_116+750.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.089916,15.060387,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00030">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 116+300 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Don, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_116+300.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.091776,15.063653,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00031">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 115+950 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Don, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_115+950.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.093239,15.066137,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00032">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 115+700 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Don, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_115+700.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.093713,15.068157,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00033">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 115+190 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Don, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_115+190.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.094086,15.072894,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00034">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 100+350 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Mai, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_100+350.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.12045,15.169549,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00035">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 98+600 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Mai, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_98+600.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.114977,15.177526,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00036">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 96+750 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Mai, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_96+750.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.116487,15.191606,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00037">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 92+300 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Mai, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_92+300.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.097271,15.215617,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00038">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 92+250 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Mai, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_92+250.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.096857,15.215909,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00039">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 92+150 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Mai, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_92+150.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.096188,15.216578,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00040">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 91+970 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Mai, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_91+970.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.095546,15.217951,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00041">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 91+800 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Mai, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_91+800.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.095933,15.218859,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00042">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 91+330 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Mai, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_91+330.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.097072,15.221285,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00043">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 91+230 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Mai, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_91+230.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.096325,15.221511,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00044">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 90+400 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Mai, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_90+400.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.094498,15.227231,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00045">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 90+250 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Mai, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_90+250.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.094271,15.228194,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00046">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 88+130 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Mai, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_88+130.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.0984448482947,15.24770405480455,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00047">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 88+650 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Mai, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_88+650.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.095629,15.245127,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00048">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 85+430 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Giác, huyện Bắc Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_85+430.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.118078,15.247611,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00049">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 85+350 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Giác, huyện Bắc Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_85+350.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.118605,15.247834,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00050">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 85+100 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Giác, huyện Bắc Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_85+100.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.118289,15.24988,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00051">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 81+200 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Giác, huyện Bắc Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_81+200.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.144185,15.253445,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00052">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 81+030 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Giác, huyện Bắc Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_81+030.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.145483,15.253777,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00053">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 80+910 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Giác, huyện Bắc Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_80+910.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.146386,15.253744,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00054">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 79+600 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Giác, huyện Bắc Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_79+600.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.14773,15.2589,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00055">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 79+400 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Giác, huyện Bắc Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_79+400.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.147381,15.259925,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00056">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 77+250 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Giác, huyện Bắc Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_77+250.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.138435,15.275498,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00057">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 77+100 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Giác, huyện Bắc Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_77+100.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.137851,15.276719,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00058">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 77+000 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Giác, huyện Bắc Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_77+000.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.137301,15.277498,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00059">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 76+330 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Giác, huyện Bắc Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_76+330.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.13269,15.279922,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00060">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 76+230 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Giác, huyện Bắc Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_76+230.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.132004,15.280401,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00061">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 76+150 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Giác, huyện Bắc Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_76+150.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.131277,15.280545,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00062">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 75+810 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Giác, huyện Bắc Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_75+810.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.129504,15.282284,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00063">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 73+800 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Tân, huyện Bắc Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_73+800.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.128564,15.293886,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00064">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 73+480 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Tân, huyện Bắc Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_73+480.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.128356,15.296186,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00065">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 72+050 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Bui, huyện Bắc Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_72+050.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.125135,15.307253,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00066">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 71+800 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Bui, huyện Bắc Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_71+800.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.125295,15.309793,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00067">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 71+650 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Bui, huyện Bắc Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_71+650.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.124766,15.310436,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00068">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 68+950 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Tân, huyện Bắc Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_68+950.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.131803,15.32457,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00069">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 68+750 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Tân, huyện Bắc Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_68+750.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.133984,15.324336,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00070">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 67+970 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Tân, huyện Bắc Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_67+970.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.140522,15.326687,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00071">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 67+550 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Tân, huyện Bắc Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_67+550.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.144205,15.326842,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00072">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 67+100 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Tân, huyện Bắc Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_67+100.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.14695,15.327491,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00073">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 65+950 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Tân, huyện Bắc Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_65+950.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.156375,15.331802,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00074">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 65+500 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Tân, huyện Bắc Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_65+500.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.160639,15.331631,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00075">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 64+850 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Tân, huyện Bắc Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_64+850.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.166512,15.331597,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00076">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 53+850 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Thị trấn Trà My, huyện Bắc Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_53+850.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.239372,15.361467,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00077">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 49+630 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Dương, huyện Bắc Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_49+630.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.245202,15.388788,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00078">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 49+450 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Dương, huyện Bắc Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_49+450.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.244699,15.390254,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00079">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 113+900 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Don, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_113+900.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.0979286722942,15.08738717112697,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00080">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 113+300 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Don, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_113+300.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.0995266722942,15.09118517112697,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00081">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 112+670 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Don, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_112+670.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.1003126722941,15.09475917112697,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00082">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 112+450 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Don, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_112+450.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.1020406722941,15.09727317112697,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00083">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 111+720 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Don, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_111+720.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.1056236722941,15.10142217112697,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00084">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 111+200 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Don, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_111+200.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.1087506722941,15.10489217112697,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00085">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 111+100 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Don, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_111+100.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.1091626722941,15.10576217112697,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00086">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 110+900 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Don, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_110+900.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.1099346722941,15.10703417112697,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00087">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 110+550 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Don, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_110+550.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.1107946722941,15.10993817112697,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00088">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 110+400 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Don, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_110+400.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.1118846722941,15.11078117112697,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00089">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 110+100 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Don, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_110+100.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.1138566722941,15.11147617112697,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00090">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 110+50 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Don, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_110+50.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.1141396722941,15.11177917112697,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00091">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 109+500 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Don, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_109+500.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.1167916722941,15.11450617112697,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00092">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 109+300 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Don, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_109+300.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.1184776722941,15.11477217112697,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00093">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 109+20 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Don, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_109+20.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.1196436722942,15.11695917112697,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00094">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 108+800 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Don, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_108+800.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.1199426722941,15.11835417112697,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00095">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 108+700 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Don, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_108+700.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.1207826722941,15.11922717112697,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00096">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 108+600 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Don, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_108+600.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.1212206722941,15.11932117112697,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00097">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 108+100 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Don, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_108+100.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.1198276722941,15.12381917112697,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00098">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 107+950 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Don, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_107+950.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.1203196722941,15.12505817112697,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00099">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 107+850 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Don, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_107+850.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.1199466722941,15.12565017112697,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00100">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 107+200 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Mai, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_107+200.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.1171396722941,15.12881317112697,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00101">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 107+80 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Mai, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_107+80.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.1172406722941,15.12997617112697,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00102">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 106+50 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Mai, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_106+50.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.1117066722941,15.13547017112697,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00103">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 141+210 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Nam, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_141+210.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.0460967887507,14.98639387548656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00104">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 140+900 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Nam, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_140+900.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.0488227887507,14.98601487548656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00105">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 140+500 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Nam, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_140+500.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.0527397887507,14.98642287548656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00106">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 140+200 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Nam, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_140+200.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.0543707887507,14.98873987548656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00107">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 139+220 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Nam, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_139+220.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.0611877887507,14.98930687548656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00108">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 138+650 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Nam, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_138+650.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.0634637887507,14.99126287548656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00109">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 138+100 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Nam, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_138+100.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.0621037887507,14.99430687548656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00110">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 137+600 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Nam, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_137+600.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.0666217887507,14.99772187548656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00111">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 136+600 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Nam, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_136+600.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.0723157887507,15.00027287548656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00112">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 136+490 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Nam, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_136+490.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.0713117887507,15.00088287548656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00113">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 136+250 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Nam, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_136+250.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.0718407887507,15.00213987548656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00114">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 136+100 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Nam, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_136+100.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.0728487887507,15.00250587548656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00115">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 136+020 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Nam, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_136+020.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.0728987887507,15.00272187548656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00116">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 135+940 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Nam, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_135+940.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.0742967887507,15.00367787548656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00117">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 135+250 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Nam, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_135+250.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.0782317887507,15.00730887548656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00118">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 135+100 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Nam, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_135+100.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.0791897887507,15.00803587548656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00119">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 134+960 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Nam, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_134+960.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.0809577887507,15.00824687548656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00120">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 134+730 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Nam, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_134+730.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.0822057887507,15.00911487548656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00121">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 134+550 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Nam, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_134+550.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.0828577887507,15.00987387548656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00122">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 134+520 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Nam, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_134+520.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.0834117887507,15.01029087548656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00123">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 134+400 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Nam, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_134+400.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.0844907887507,15.01100787548656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00124">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 133+900 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Nam, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_133+900.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.0844737887507,15.01110687548656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00125">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 133+800 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Nam, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_133+800.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.0895127887507,15.01398287548656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00126">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 133+400 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Nam, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_133+400.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.0892617887507,15.01654987548656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00127">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 133+290 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Nam, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_133+290.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.0899317887507,15.01724587548656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00128">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 133+050 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Nam, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_133+050.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.0921407887507,15.01836187548656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00129">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 132+690 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Nam, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_132+690.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.0948387887507,15.01928287548656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00130">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 132+420 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Nam, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_132+420.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.0962287887507,15.01971487548656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00131">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 131+450 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Nam, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_131+450.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.1028487887507,15.01873087548656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00132">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 131+250 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Nam, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_131+250.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.1043957887507,15.01715687548656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00133">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 131+150 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Nam, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_131+150.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.1048147887507,15.01719587548656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00134">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 131+020 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Nam, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_131+020.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.1059957887507,15.01727987548656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00135">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 130+910 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Nam, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_130+910.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.1068337887507,15.01743087548656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00136">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 130+750 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Nam, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_130+750.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.1078247887507,15.01782387548656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00137">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 130+600 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Nam, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_130+600.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.1085667887507,15.01837287548656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00138">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 40B</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 129+850 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Trà Nam, huyện Nam Trà My</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/40B_129+850.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.1132827887507,15.02005987548656,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

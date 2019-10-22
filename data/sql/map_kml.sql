@@ -1,0 +1,16 @@
+INSERT INTO `map_kml` VALUES ('1', null, 'Ban_do_phan_vung_nguy_co_truot_lo', 'Bán đồ phân vùng nguy cơ trượt lở', 'Ban_do_phan_vung_nguy_co_truot_lo.kmz', '0');
+INSERT INTO `map_kml` VALUES ('2', null, 'Diem_truot_lo', 'Điểm trượt lở', 'Diem_truot_lo.kmz', '1');
+INSERT INTO `map_kml` VALUES ('3', null, 'Do_doc', 'Độ dốc', 'Do_doc.kmz', '0');
+INSERT INTO `map_kml` VALUES ('4', null, 'Dut_gay', 'Đứt gãy', 'Dut_gay.kmz', '1');
+INSERT INTO `map_kml` VALUES ('5', null, 'Hien_tran_su_dung_dat', 'Hiện trạng sử dụng đất', 'Hien_tran_su_dung_dat.kmz', '0');
+INSERT INTO `map_kml` VALUES ('6', null, 'Huong_doc', 'Hướng dốc', 'Huong_doc.kmz', '0');
+INSERT INTO `map_kml` VALUES ('7', null, 'Loai_dat', 'Loại đất', 'Loai_dat.kmz', '1');
+INSERT INTO `map_kml` VALUES ('8', null, 'Mat_do_phan_cach_ngang', 'Mật độ phân cắt ngang', 'Mat_do_phan_cach_ngang.kmz', '1');
+INSERT INTO `map_kml` VALUES ('9', null, 'Ranh_gioi_huyen_line', 'Ranh giới huyện_line', 'Ranh_gioi_huyen_line.kmz', '1');
+INSERT INTO `map_kml` VALUES ('10', null, 'Ranh_gioi_huyen_polygon', 'Ranh giới huyện_polygon', 'Ranh_gioi_huyen_polygon.kmz', '1');
+INSERT INTO `map_kml` VALUES ('11', null, 'Song_suoi', 'Sông suối', 'Song_suoi.kmz', '1');
+INSERT INTO `map_kml` VALUES ('12', null, 'Ranh_gioi_xa_point', 'Ranh giới xã_point', 'Ranh_gioi_xa_point.kmz', '1');
+INSERT INTO `map_kml` VALUES ('13', null, 'Ranh_gioi_xa_polygon', 'Ranh giới xã_polygon', 'Ranh_gioi_xa_polygon.kmz', '1');
+INSERT INTO `map_kml` VALUES ('14', null, 'Mat_do_phan_cat_sau', 'Mật độ phân cắt sâu', 'Mat_do_phan_cat_sau.kmz', '1');
+INSERT INTO `map_kml` VALUES ('15', null, 'Ranh_gioi_xa_line', 'Ranh giới xã_line', 'Ranh_gioi_xa_line.kmz', '1');
+INSERT INTO `map_kml` VALUES ('16', null, 'Thach_hoc', 'Thạch học', 'Thach_hoc.kmz', '1');

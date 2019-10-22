@@ -1,0 +1,3992 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>HCM.kml</name>
+	<Style id="IconStyle00">
+		<IconStyle>
+			<scale>0.3125</scale>
+			<Icon>
+				<href>data/diemtruot/Layer.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffe65c00</color>
+			<scale>0.5</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>HCM</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 1413+320 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Mỹ, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_1413+320.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.734815,15.23091,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 1411+530 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Mỹ, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_1411+530.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.737349,15.237681,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 1411+490 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Mỹ, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_1411+490.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.737147,15.237864,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 1409+480 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Mỹ, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_1409+480.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.733075,15.253169,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 1409+120 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Mỹ, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_1409+120.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.732509,15.255407,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00005">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 1403+080 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Mỹ, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_1403+080.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.728304,15.30079,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 1402+990 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Mỹ, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_1402+990.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.727933,15.301616,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 1401+400 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Mỹ, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_1401+400.JPG"></td>
+
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.731265,15.312387,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00008">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 1398+900 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Mỹ, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_1398+900.JPG"></td>
+
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.735348,15.329399,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00009">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 1396+960 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Mỹ, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_1396+960.JPG"></td>
+
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.739918,15.343686,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00010">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 1392+750 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Mỹ, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_1392+750.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.755547,15.364375,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00011">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 1391+750 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Mỹ, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_1391+750.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.755121,15.371596,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00012">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 1390+150 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Năng, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_1390+150.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.754024,15.38514,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00013">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 1386+890 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Năng, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_1386+890.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.762309,15.403489,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00014">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 1386+290 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Năng, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_1386+290.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.767522,15.404815,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00015">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 1385+100 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Đức, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_1385+100.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.765484,15.411921,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00016">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 1380+470 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Thị trấn Khâm Đức, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_1380+470.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.781769,15.435796,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00017">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 1373+200 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Xuân, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_1373+200.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.816711,15.451458,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00018">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 1372+620 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Xuân, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_1372+620.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.819581,15.454357,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00019">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 1372+400 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Xuân, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_1372+400.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.821424,15.455002,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00020">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 1372+070 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Xuân, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_1372+070.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.823621,15.456275,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00021">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 1371+460 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Xuân, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_1371+460.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.824653,15.459576,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00022">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 1370+800 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Xuân, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_1370+800.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.825217,15.464084,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00023">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 1370+450 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Xuân, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_1370+450.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.82809,15.46449,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00024">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 1370+350 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Xuân, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_1370+350.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.829046,15.464225,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00025">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 1366+580 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Xuân, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_1366+580.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.835444,15.48478,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00026">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 1365+800 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Xuân, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_1365+800.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.830613,15.48905,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00027">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 1364+620 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Xuân, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_1364+620.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.822654,15.494128,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00028">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 1362+920 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Xuân, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_1362+920.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.816216,15.504985,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00029">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 1359+800 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Xuân, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_1359+800.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.816864,15.526688,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00030">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 1359+210 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Xuân, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_1359+210.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.818535,15.530361,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00031">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 1358+550 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Xuân, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_1358+550.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.821071,15.533914,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00032">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 1357+870 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Xuân, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_1357+870.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.820791,15.539381,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00033">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 1357+010 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Xuân, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_1357+010.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.823586,15.544159,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00034">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 1355+670 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Xuân, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_1355+670.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.827639,15.554475,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00035">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 1355+200 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Xuân, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_1355+200.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.824818,15.55797,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00036">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 1354+840 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Xuân, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_1354+840.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.822101,15.559595,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00037">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 1354+450 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Xuân, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_1354+450.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.82152,15.562808,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00038">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 1353+080 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Xuân, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_1353+080.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.827573,15.570723,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00039">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 1350+960 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Cà Dy, huyện Nam Giang</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_1350+960.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.834319,15.582323,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00040">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 1348+350 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Cà Dy, huyện Nam Giang</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_1348+350.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.842974,15.601854,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00041">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 485+000 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Thị trấn Thạnh Mỹ, huyện Nam Giang</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_485+000.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.754539,15.783669,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00042">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 480+300 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Thị trấn Thạnh Mỹ, huyện Nam Giang</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_480+300.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.7495310839332,15.80152594732514,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00043">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 477+800 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Mà Cooi, huyện Đông Giang</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_477+800.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.742367,15.811369,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00044">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 451+550 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Za Hung, huyện Đông Giang</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_451+550.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.646189,15.893222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00045">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 440+480 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Thị trấn PRao, huyện Đông Giang</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_440+480.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.615156,15.936513,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00046">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 436+870 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã A Vương, huyện Tây Giang</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_436+870.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.596482,15.948508,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00047">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 433+200 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã A Vương, huyện Tây Giang</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_433+200.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.578268,15.94272,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00048">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 430+130 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã A Vương, huyện Tây Giang</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_430+130.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.555367,15.940563,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00049">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 420+700 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Bha Lê, huyện Tây Giang</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_420+700.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.522095,15.958533,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00050">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Hồ Chí Minh</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 419+500 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Bha Lê, huyện Tây Giang</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+
+<td><img style="max-width:300px;" src="data/diemtruot/HCM_419+500.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.515494,15.963795,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

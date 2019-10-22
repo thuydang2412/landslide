@@ -1,0 +1,115 @@
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2008-07-02 2008-08-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2008-08-02 2008-09-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2008-09-02 2008-10-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2008-10-02 2008-11-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2008-11-02 2008-12-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2008-12-02 2008-12-31
+
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2009-01-01 2009-02-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2009-02-02 2009-03-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2009-03-02 2009-04-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2009-04-02 2009-05-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2009-05-02 2009-06-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2009-06-02 2009-07-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2009-07-02 2009-08-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2009-08-02 2009-09-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2009-09-02 2009-10-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2009-10-02 2009-11-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2009-11-02 2009-12-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2009-12-02 2009-12-31
+
+
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2010-01-01 2010-02-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2010-02-02 2010-03-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2010-03-02 2010-04-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2010-04-02 2010-05-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2010-05-02 2010-06-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2010-06-02 2010-07-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2010-07-02 2010-08-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2010-08-02 2010-09-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2010-09-02 2010-10-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2010-10-02 2010-11-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2010-11-02 2010-12-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2010-12-02 2010-12-31
+
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2011-01-01 2011-02-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2011-02-02 2011-03-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2011-03-02 2011-04-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2011-04-02 2011-05-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2011-05-02 2011-06-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2011-06-02 2011-07-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2011-07-02 2011-08-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2011-08-02 2011-09-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2011-09-02 2011-10-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2011-10-02 2011-11-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2011-11-02 2011-12-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2011-12-02 2011-12-31
+
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2012-01-01 2012-02-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2012-02-02 2012-03-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2012-03-02 2012-04-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2012-04-02 2012-05-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2012-05-02 2012-06-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2012-06-02 2012-07-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2012-07-02 2012-08-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2012-08-02 2012-09-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2012-09-02 2012-10-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2012-10-02 2012-11-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2012-11-02 2012-12-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2012-12-02 2012-12-31
+
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2013-01-01 2013-02-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2013-02-02 2013-03-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2013-03-02 2013-04-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2013-04-02 2013-05-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2013-05-02 2013-06-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2013-06-02 2013-07-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2013-07-02 2013-08-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2013-08-02 2013-09-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2013-09-02 2013-10-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2013-10-02 2013-11-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2013-11-02 2013-12-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2013-12-02 2013-12-31
+
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2014-01-01 2014-02-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2014-02-02 2014-03-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2014-03-02 2014-04-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2014-04-02 2014-05-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2014-05-02 2014-06-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2014-06-02 2014-07-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2014-07-02 2014-08-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2014-08-02 2014-09-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2014-09-02 2014-10-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2014-10-02 2014-11-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2014-11-02 2014-12-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2014-12-02 2014-12-31
+
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2015-01-01 2015-02-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2015-02-02 2015-03-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2015-03-02 2015-04-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2015-04-02 2015-05-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2015-05-02 2015-06-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2015-06-02 2015-07-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2015-07-02 2015-08-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2015-08-02 2015-09-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2015-09-02 2015-10-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2015-10-02 2015-11-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2015-11-02 2015-12-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2015-12-02 2015-12-31
+
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2016-01-01 2016-02-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2016-02-02 2016-03-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2016-03-02 2016-04-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2016-04-02 2016-05-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2016-05-02 2016-06-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2016-06-02 2016-07-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2016-07-02 2016-08-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2016-08-02 2016-09-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2016-09-02 2016-10-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2016-10-02 2016-11-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2016-11-02 2016-12-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2016-12-02 2016-12-31
+
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2017-01-01 2017-02-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2017-02-02 2017-03-01
+php artisan CallWorldWeatherHistoryApi getInfoHistory 23 2017-03-02 2017-04-01

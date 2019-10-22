@@ -1,0 +1,1255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>QL_14E.kml</name>
+	<Style id="IconStyle00">
+		<IconStyle>
+			<scale>0.3125</scale>
+			<Icon>
+				<href>data/diemtruot/Layer.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffe65c00</color>
+			<scale>0.5</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>QL_14E</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 14E</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 51+650 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Quế Bình, huyện Hiệp Đức</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+<td><img style="max-width:300px;" src="data/diemtruot/14E_51+650.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.064319,15.556078,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 14E</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 61+700 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Sông Trà, huyện Hiệp Đức</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+<td><img style="max-width:300px;" src="data/diemtruot/14E_61+700.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>108.001861,15.517291,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 14E</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 63+370 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Hiệp, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+<td><img style="max-width:300px;" src="data/diemtruot/14E_63+370.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.993191,15.510676,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 14E</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 66+630 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Hiệp, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+<td><img style="max-width:300px;" src="data/diemtruot/14E_66+630.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.97633,15.491579,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 14E</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 74+880 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Hòa, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+<td><img style="max-width:300px;" src="data/diemtruot/14E_74+880.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.919486,15.457073,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00005">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 14E</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 75+100 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Hòa, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+<td><img style="max-width:300px;" src="data/diemtruot/14E_75+100.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.917766,15.456608,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 14E</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 75+400 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Hòa, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+<td><img style="max-width:300px;" src="data/diemtruot/14E_75+400.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.915535,15.454849,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 14E</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 75+620 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Hòa, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+<td><img style="max-width:300px;" src="data/diemtruot/14E_75+620.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.914237,15.453945,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00008">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 14E</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 78+100 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Hòa, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+<td><img style="max-width:300px;" src="data/diemtruot/14E_78+100.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.908357,15.443619,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00009">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 14E</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 78+750 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Hòa, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+<td><img style="max-width:300px;" src="data/diemtruot/14E_78+750.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.905508,15.43961,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00010">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 14E</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 78+860 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Hòa, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+<td><img style="max-width:300px;" src="data/diemtruot/14E_78+860.JPG"></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.904758,15.439268,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00011">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 14E</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 79+390 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Hòa, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+<td><img style="max-width:300px;" src="data/diemtruot/14E_79+390.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.900057,15.439284,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00012">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 14E</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 84+500 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Hòa, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+<td><img style="max-width:300px;" src="data/diemtruot/14E_84+500.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.85703,15.440511,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00013">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 14E</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 84+650 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Hòa, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+<td><img style="max-width:300px;" src="data/diemtruot/14E_84+650.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.855856,15.440454,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00014">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 14E</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 85+300 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Hòa, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+<td><img style="max-width:300px;" src="data/diemtruot/14E_85+300.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.849383,15.441034,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00015">
+			<name></name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thông tin điểm trượt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Tuyến đường</td>
+
+<td>Quốc lộ 14E</td>
+
+</tr>
+
+<tr>
+
+<td>Lý trình</td>
+
+<td>Km 87+650 và phụ cận</td>
+
+</tr>
+
+<tr>
+
+<td>Địa danh</td>
+
+<td>Xã Phước Hòa, huyện Phước Sơn</td>
+
+</tr>
+
+<tr>
+
+<td>Hình ảnh</td>
+<td><img style="max-width:300px;" src="data/diemtruot/14E_87+650.JPG"></td>
+
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>107.83616,15.452592,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
