@@ -16,7 +16,7 @@
         "symfony/css-selector": "3.1.*",
         "symfony/dom-crawler": "3.1.*",
         "anlutro/curl": "1.4.2",
-        "phpmailer/phpmailer": "~5.2"
+        "phpmailer/phpmailer": "~6.1"
     },
     "autoload": {
         "classmap": [
